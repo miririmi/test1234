@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T06:27:06.965Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.70 Whale/3.13.131.27 Safari/537.36" etag="sV8FmJT8dsgKGf-C45OW" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-18T06:30:17.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.70 Whale/3.13.131.27 Safari/537.36" etag="Ulwgefh21gTO5Ftg8bNl" version="16.5.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2785" dy="1581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XhODxmY8wgKng1i2vLVl-49" value="getGoldbar()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XhODxmY8wgKng1i2vLVl-48" vertex="1">
+        <mxCell id="XhODxmY8wgKng1i2vLVl-49" value="getGoldbarBasicInfo()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XhODxmY8wgKng1i2vLVl-48" vertex="1">
           <mxGeometry y="41" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XhODxmY8wgKng1i2vLVl-50" value="createGoldbar()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="XhODxmY8wgKng1i2vLVl-48" vertex="1">
@@ -150,7 +150,7 @@
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XhODxmY8wgKng1i2vLVl-54" value="getGoldbar()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XhODxmY8wgKng1i2vLVl-53" vertex="1">
+        <mxCell id="XhODxmY8wgKng1i2vLVl-54" value="getGoldbarBasicInfo()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XhODxmY8wgKng1i2vLVl-53" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XhODxmY8wgKng1i2vLVl-55" value="createGoldbar()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="XhODxmY8wgKng1i2vLVl-53" vertex="1">
